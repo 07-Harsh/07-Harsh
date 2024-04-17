@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @07-Harsh
-- 👀 I’m interested in ...!
-- 🌱 I’m currently Studying in BCA
-- 😄 Pronouns: Harsh...
 
 
 <!---
